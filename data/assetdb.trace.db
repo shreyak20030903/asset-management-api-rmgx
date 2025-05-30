@@ -1,0 +1,3 @@
+2025-05-30 21:18:28 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM ASSETS CATEGORIES EMPLOYEES[*]"; SQL statement:
+SELECT * FROM ASSETS CATEGORIES EMPLOYEES [42000-200]
